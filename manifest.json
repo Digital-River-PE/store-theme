@@ -62,7 +62,7 @@
     "vtex.tab-layout": "0.x",
     "vtex.condition-layout": "2.x",
     "vtex.css-handles": "1.x",
-    "digitalriverpartnerus.order-placed": "2.16.6-beta.0"
+    "digitalriverpartnerus.order-placed": "2.16.x"
   },
   "peerDependencies": {
     "vtex.reviews-and-ratings": "2.x"
