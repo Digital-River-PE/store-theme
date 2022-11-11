@@ -1,5 +1,5 @@
 {
-  "order-placed": {
+  "digitalriverpartnerus.order-placed:order-placed": {
     "blocks": ["op-header", "op-order"]
   },
   "op-header": {
